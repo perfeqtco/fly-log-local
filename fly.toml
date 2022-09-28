@@ -10,3 +10,4 @@ destination="/data"
 
 [env]
   ORG = "perfeqt-inc"
+  SUBJECT = "logs.*.>"
